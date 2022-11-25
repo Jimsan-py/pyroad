@@ -4,7 +4,7 @@
 
 Hello! My name is Mikhail Emelyanov, I am embedded software engineer, and I was inspired to write this little roadmap on the capabilities of Python language by a certain commonality among the existing Python tutorials found on the web.
 
-The usual suggestions to study, say, “Algorithms and Data Structures” or “Databases” are especially jarring. You can spend years studying these topics, and even after decades you'd still be able to find something you didn't know yet even without ever venturing outside the scope of Algorithms!
+The usual suggestions to study, say, “Algorithms and Data Structures” or “Databases” are especially clashing. You can spend years studying these topics, and even after decades you'd still be able to find something you didn't know yet even without ever venturing outside the scope of Algorithms!
 
 Using video game analogies, we can say that novice programmers often stand on the shore of the lake of boiling lava with an island with the ever-coveted jobs in the center, while the islands in between, which you have to jump on, gradually increasing your skills in successive mini-quests, are either missing, or arranged haphazardly, or their fairly smooth sequence breaks off, never having managed to get you any farther from the shore. Let's try to build a path of hint islands, a number of which, although not without effort, will finally allow us to reach our goal.
 
